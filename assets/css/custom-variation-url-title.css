@@ -1,0 +1,8 @@
+/* 你可以在这里添加自定义样式 */
+.single-product-content {
+    transition: opacity 0.3s ease-in-out;
+}
+
+.single-product-content.loading {
+    opacity: 0.5;
+}
